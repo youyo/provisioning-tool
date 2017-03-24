@@ -12,5 +12,7 @@ $ chmod 700 /usr/sbin/mitamae
 - Clone this repository.
 
 ```
-$ git clone 
+$ git clone https://github.com/youyo/provisioning-tool.git
+$ cd provisioning-tool
+$ git submodule update --init --recursive
 ```
